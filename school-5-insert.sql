@@ -5,5 +5,5 @@ INSERT INTO students (
 ) VALUES (
     "Kara",
     "Lyons",
-    "kara.e.lyons@mgail.com"
-)
+    "kara.e.lyons@gmail.com"
+);
